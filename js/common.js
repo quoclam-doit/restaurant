@@ -1,9 +1,9 @@
 /**
-*	Quốc Lâm - Cafe & Restaurant Template (HTML)
+*	NPT - Cafe & Restaurant Template (HTML)
 *	Version: 1.0
 *	Author: bslthemes
 *	Author URL: http://themeforest.net/user/bslthemes
-*	Copyright © Quốc Lâm by bslthemes. All Rights Reserved.
+*	Copyright © NPT by bslthemes. All Rights Reserved.
 **/
 
 (function ($) {
